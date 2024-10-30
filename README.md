@@ -1,8 +1,8 @@
 ![I am Radib181](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Radib Bhuyian</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
+
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Skills BOOTSTRAP / REACT / JS / HTML / CSS / TEILWIN CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **radibbhbh@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:
 
 <h3 align="left">Connect with me:</h3>
 
