@@ -14,13 +14,13 @@ Skills BOOTSTRAP / REACT / JS / HTML / CSS / TEILWIN CSS
 
 - 🔭 I’m currently working learning Font-Ent Web Development
 
-- 🌱 I’m currently learning Golang, Java, C, C++
+- 🌱 I’m currently learning Golang, Java, C & C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/Radib181](https://github.com/Radib181)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about *** HTML5, CSS3, Bootstrap, Javascript, React ***
 
 - 📫 How to reach me **radibbhbh@gmail.com**
 
